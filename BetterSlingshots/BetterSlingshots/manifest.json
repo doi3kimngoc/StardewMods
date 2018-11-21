@@ -1,7 +1,7 @@
 ﻿{
   "Name": "Better Slingshots",
   "Author": "Cat",
-  "Version": "1.1.1-unofficial.1-doi3kimngoc",
+  "Version": "1.1.1",
   "Description": "Makes slingshots way better! Adds full auto fire, auto reload, better aiming, fixes bugs, and more!",
   "UniqueID": "cat.betterslingshots",
   "EntryDll": "BetterSlingshots.dll",
